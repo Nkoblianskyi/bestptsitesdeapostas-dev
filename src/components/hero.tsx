@@ -21,7 +21,7 @@ export function Hero() {
               Portal Independente de Apostas Desportivas
             </p>
             <h1 className="text-xl md:text-3xl font-black text-white mb-2 md:mb-3 text-balance leading-tight">
-              Melhores Sites de Apostas Desportivas em Portugal 2025
+              Melhores Sites de Apostas Desportivas em Portugal 2026
             </h1>
             <p className="text-xs md:text-sm text-gray-300 mb-3 md:mb-4 leading-relaxed max-w-2xl mx-auto">
               Rankings atualizados, bónus verificados e análises independentes para apostadores portugueses. Todos os

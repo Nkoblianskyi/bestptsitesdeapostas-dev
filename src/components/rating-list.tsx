@@ -123,6 +123,21 @@ export function RatingList({ sites }: RatingListProps) {
                     </div>
                   </div>
                 </a>
+
+                <div className="bg-gray-50 border-t border-gray-100 px-3 py-1.5 text-[10px] md:text-[11px] text-gray-500 text-center">
+                  <span className="font-semibold text-gray-600">+18</span>
+                  <span className="mx-1.5 text-gray-300">|</span>
+                  <span>Jogo Responsável</span>
+                  <span className="mx-1.5 text-gray-300">|</span>
+                  <a
+                    href="https://jogoresponsavel.pt/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-portugal-green hover:underline"
+                  >
+                    jogoresponsavel.pt
+                  </a>
+                </div>
               </div>
             )
           })}
