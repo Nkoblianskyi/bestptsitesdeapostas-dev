@@ -22,7 +22,7 @@ export default function ResponsibleGamblingPage() {
           {/* Intro */}
           <div className="bg-red-50 border border-portugal-red/30 p-6 rounded-lg">
             <p className="text-lg text-gray-800 leading-relaxed">
-              O portugaltopapostas.com defende que as apostas desportivas devem ser encaradas exclusivamente como forma
+              O bestptsitesdeapostas.com defende que as apostas desportivas devem ser encaradas exclusivamente como forma
               de entretenimento, nunca como meio de obter rendimento ou solucionar dificuldades financeiras.
             </p>
           </div>
