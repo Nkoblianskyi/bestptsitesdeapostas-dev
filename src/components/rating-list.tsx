@@ -33,9 +33,6 @@ export function RatingList({ sites }: RatingListProps) {
   return (
     <section className="py-4 md:py-8 bg-background">
       <div className="container mx-auto px-3 md:px-4 max-w-[1150px]">
-        <h2 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 text-center">
-          Ranking de Sites de Apostas 2025
-        </h2>
         <div className="flex flex-col gap-0 border border-gray-200">
           {sites.map((site, index) => {
             const badge = getBadgeForPosition(index)
