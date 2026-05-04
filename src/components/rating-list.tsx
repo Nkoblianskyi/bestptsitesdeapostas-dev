@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { Star } from "lucide-react"
-import type { BettingSite } from "@/types"
+import type { BettingSite } from "@/data/bet-mock"
 import { Badge } from "@/components/ui/badge"
 
 interface RatingListProps {
@@ -74,9 +74,6 @@ export function RatingList({ sites }: RatingListProps) {
                     <div className="col-span-4 flex flex-col items-center justify-center text-center">
                       <div className="text-[10px] text-portugal-red uppercase font-bold tracking-widest mb-1">Bónus</div>
                       <p className="font-black text-portugal-green text-2xl leading-tight">{site.bonus}</p>
-                      {site.dopbonus && (
-                        <p className="text-xs text-gray-500 mt-0.5">{site.dopbonus}</p>
-                      )}
                     </div>
 
                     <div className="col-span-2 flex flex-col items-center justify-center text-center">
@@ -106,7 +103,7 @@ export function RatingList({ sites }: RatingListProps) {
                       <div className="text-center">
                         <div className="text-[10px] text-portugal-red uppercase font-bold tracking-widest mb-1">Bónus</div>
                         <div className="text-lg font-black text-portugal-green leading-tight">{site.bonus}</div>
-                        {site.dopbonus && <div className="text-[10px] text-gray-500 mt-0.5">{site.dopbonus}</div>}
+      
                       </div>
                     </div>
 

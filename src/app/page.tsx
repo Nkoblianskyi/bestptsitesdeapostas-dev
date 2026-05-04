@@ -1,4 +1,4 @@
-import { bettingSites } from "@/types"
+import { bettingSites } from "@/data/bet-mock"
 import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
 import { RatingList } from "@/components/rating-list"

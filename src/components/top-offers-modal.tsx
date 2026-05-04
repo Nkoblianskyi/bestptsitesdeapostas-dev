@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import Image from "next/image"
 import { Star } from "lucide-react"
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog"
-import type { BettingSite } from "@/types"
+import type { BettingSite } from "@/data/bet-mock"
 
 interface TopOffersModalProps {
   sites: BettingSite[]
