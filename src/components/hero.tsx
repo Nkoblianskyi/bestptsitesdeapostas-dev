@@ -43,22 +43,6 @@ export function Hero() {
               </div>
             </div>
 
-            <div className="bg-white/10 border border-white/20 p-2 text-[10px] md:text-xs text-gray-200 max-w-2xl mx-auto">
-              Aposte com responsabilidade. Termos aplicáveis.{" "}
-              <button
-                onClick={() => setIsModalOpen(true)}
-                className="text-portugal-gold hover:underline font-semibold"
-              >
-                Informação Publicitária
-              </button>{" "}
-              |{" "}
-              <button
-                onClick={() => setIsModalOpen(true)}
-                className="text-portugal-red hover:underline font-semibold"
-              >
-                Maiores de 18 Anos
-              </button>
-            </div>
           </div>
         </div>
       </div>
