@@ -10,7 +10,7 @@ export default function PrivacyPolicyPage() {
         <div className="container mx-auto px-4 max-w-[1150px] text-center">
           <p className="text-sm font-semibold text-portugal-green uppercase tracking-widest mb-3">Legal</p>
           <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">Política de Privacidade</h1>
-          <p className="text-gray-500 text-sm">Última atualização: 1 de Maio de 2025</p>
+          <p className="text-gray-500 text-sm">Última atualização: 2026</p>
         </div>
       </div>
 
