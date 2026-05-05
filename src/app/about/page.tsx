@@ -9,7 +9,7 @@ export default function AboutPage() {
       <div className="bg-white border-b-4 border-portugal-green py-12 md:py-16">
         <div className="container mx-auto px-4 max-w-[1150px] text-center">
           <p className="text-sm font-semibold text-portugal-green uppercase tracking-widest mb-3">Sobre Nós</p>
-          <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">bestptsitesdeapostas.com</h1>
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">topptsitesdeapostas.com</h1>
           <p className="text-gray-500">A referência independente em análise de apostas desportivas em Portugal</p>
         </div>
       </div>
@@ -22,7 +22,7 @@ export default function AboutPage() {
               Quem Somos
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              O <strong>bestptsitesdeapostas.com</strong> surgiu da necessidade real de oferecer aos apostadores
+              O <strong>topptsitesdeapostas.com</strong> surgiu da necessidade real de oferecer aos apostadores
               portugueses um recurso informativo genuinamente independente sobre o mercado regulado de apostas
               desportivas. Somos uma equipa de analistas especializados, com anos de experiência no setor do jogo
               online em Portugal, comprometidos com a transparência e a objetividade.
@@ -106,7 +106,7 @@ export default function AboutPage() {
               Transparência e Parcerias Comerciais
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              O bestptsitesdeapostas.com mantém parcerias comerciais com operadores de apostas licenciados pelo SRIJ.
+              O topptsitesdeapostas.com mantém parcerias comerciais com operadores de apostas licenciados pelo SRIJ.
               Quando efetua um registo através dos links presentes no nosso portal, podemos receber uma comissão de
               afiliação sem qualquer custo adicional para si.
             </p>
@@ -142,10 +142,10 @@ export default function AboutPage() {
             <p className="text-gray-700 leading-relaxed">
               Para sugestões, correções ou questões editoriais, entre em contacto através de:{" "}
               <a
-                href="mailto:redacao@bestptsitesdeapostas.com"
+                href="mailto:redacao@topptsitesdeapostas.com"
                 className="text-portugal-green hover:underline font-medium"
               >
-                redacao@bestptsitesdeapostas.com
+                redacao@topptsitesdeapostas.com
               </a>
               . A nossa equipa compromete-se a responder em 48 horas úteis.
             </p>
@@ -158,3 +158,4 @@ export default function AboutPage() {
     </div>
   )
 }
+

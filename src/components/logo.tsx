@@ -13,10 +13,13 @@ export function Logo({ className = "", size = "md", variant = "dark" }: LogoProp
   const dotColor = variant === "light" ? "text-white" : "text-portugal-gold"
 
   return (
-    <Link href="/" className={`inline-flex items-baseline gap-0 select-none ${className}`} aria-label="bestptsitesdeapostas home">
+    <Link href="/" className={`inline-flex items-baseline gap-1 select-none ${className}`} aria-label="top pt sites de apostas home">
       {/* wordmark uses Bebas Neue via font-display */}
       <span className={`font-display tracking-wide leading-none ${baseSize} text-portugal-green`}>
-        bestpt
+        top
+      </span>
+      <span className={`font-display tracking-wide leading-none ${baseSize} text-portugal-gold`}>
+        pt
       </span>
       <span className={`font-display tracking-wide leading-none ${baseSize} text-portugal-gold`}>
         sites
@@ -28,7 +31,8 @@ export function Logo({ className = "", size = "md", variant = "dark" }: LogoProp
         apostas
       </span>
       {/* accent dot */}
-      <span className={`font-display leading-none text-portugal-gold ml-0.5 ${baseSize}`}>.</span>
+      <span className={`font-display leading-none ml-0.5 ${dotColor} ${baseSize}`}>.</span>
     </Link>
   )
 }
+

@@ -4,7 +4,7 @@ export function AboutSection() {
       <div className="container mx-auto px-4 max-w-[1150px]">
         <div className="text-center mb-8">
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2 text-balance">
-            Sobre o bestptsitesdeapostas
+            Sobre o top pt sites de apostas
           </h2>
           <div className="w-16 h-1 bg-portugal-green mx-auto"></div>
         </div>
@@ -13,7 +13,7 @@ export function AboutSection() {
           <div className="bg-white p-6 border-l-4 border-portugal-green shadow-sm">
             <h3 className="text-base font-bold text-gray-900 mb-2">A Nossa Missão</h3>
             <p className="text-sm text-gray-600 leading-relaxed">
-              O bestptsitesdeapostas.com é o portal de referência para apostadores portugueses que procuram informação
+              O topptsitesdeapostas.com é o portal de referência para apostadores portugueses que procuram informação
               fiável sobre sites de apostas legais em Portugal. Avaliamos criteriosamente cada operador licenciado
               pelo SRIJ, garantindo recomendações de plataformas seguras e de confiança.
             </p>
@@ -56,3 +56,4 @@ export function AboutSection() {
     </section>
   )
 }
+

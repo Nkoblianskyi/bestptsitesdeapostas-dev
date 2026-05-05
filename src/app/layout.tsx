@@ -7,10 +7,10 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const bebasNeue = Bebas_Neue({ subsets: ["latin"], weight: "400", variable: "--font-bebas" })
 
 export const metadata: Metadata = {
-  title: "bestptsitesdeapostas.com - Melhores Sites de Apostas em Portugal 2026",
+  title: "topptsitesdeapostas.com - Melhores Sites de Apostas em Portugal 2026",
   description:
     "Descubra os melhores sites de apostas desportivas licenciados em Portugal. Rankings atualizados, bónus exclusivos e análises independentes para apostadores portugueses.",
-  metadataBase: new URL("https://bestptsitesdeapostas.com"),
+  metadataBase: new URL("https://topptsitesdeapostas.com"),
 }
 
 export default function RootLayout({
@@ -24,3 +24,4 @@ export default function RootLayout({
     </html>
   )
 }
+

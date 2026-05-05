@@ -22,7 +22,7 @@ export default function PrivacyPolicyPage() {
               Compromisso com a Privacidade
             </h2>
             <p className="text-gray-700 leading-relaxed">
-              O <strong>bestptsitesdeapostas.com</strong> está profundamente comprometido com a proteção dos dados
+              O <strong>topptsitesdeapostas.com</strong> está profundamente comprometido com a proteção dos dados
               pessoais dos seus utilizadores. Esta Política de Privacidade descreve de forma clara e transparente
               como recolhemos, utilizamos e protegemos as informações que nos são confiadas, em total conformidade
               com o Regulamento Geral de Proteção de Dados (RGPD) e a legislação portuguesa em vigor.
@@ -34,7 +34,7 @@ export default function PrivacyPolicyPage() {
               Dados Pessoais Recolhidos
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              No âmbito da sua utilização do bestptsitesdeapostas.com, podemos recolher as seguintes categorias
+              No âmbito da sua utilização do topptsitesdeapostas.com, podemos recolher as seguintes categorias
               de informação:
             </p>
             <ul className="space-y-2 text-gray-700 text-sm">
@@ -81,7 +81,7 @@ export default function PrivacyPolicyPage() {
               Partilha com Terceiros
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              O bestptsitesdeapostas.com pode partilhar dados nas seguintes circunstâncias:
+              O topptsitesdeapostas.com pode partilhar dados nas seguintes circunstâncias:
             </p>
             <ul className="space-y-2 text-gray-700 text-sm">
               {[
@@ -137,10 +137,10 @@ export default function PrivacyPolicyPage() {
             <p className="text-gray-700 leading-relaxed">
               Para exercer os seus direitos ou esclarecer questões sobre privacidade, contacte:{" "}
               <a
-                href="mailto:privacidade@bestptsitesdeapostas.com"
+                href="mailto:privacidade@topptsitesdeapostas.com"
                 className="text-portugal-green hover:underline font-medium"
               >
-                privacidade@bestptsitesdeapostas.com
+                privacidade@topptsitesdeapostas.com
               </a>
             </p>
           </section>
@@ -152,3 +152,4 @@ export default function PrivacyPolicyPage() {
     </div>
   )
 }
+

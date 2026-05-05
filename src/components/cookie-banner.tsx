@@ -31,7 +31,7 @@ export function CookieBanner() {
         <p className="text-sm text-gray-700 leading-relaxed max-w-2xl">
           Utilizamos cookies para melhorar a sua experiência de navegação e personalizar os conteúdos apresentados.
           Ao continuar a usar o{" "}
-          <span className="font-semibold text-portugal-green">bestptsitesdeapostas.com</span>, aceita a nossa{" "}
+          <span className="font-semibold text-portugal-green">topptsitesdeapostas.com</span>, aceita a nossa{" "}
           <a href="/cookie-policy" className="text-portugal-green underline hover:no-underline font-semibold">
             Política de Cookies
           </a>
@@ -58,3 +58,4 @@ export function CookieBanner() {
     </div>
   )
 }
+

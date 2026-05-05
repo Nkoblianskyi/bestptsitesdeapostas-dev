@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <Logo className="mb-4" size="md" variant="dark" />
             <p className="text-gray-500 text-xs md:text-sm leading-relaxed">
-              bestptsitesdeapostas.com fornece comparações independentes de operadores de apostas desportivas
+              topptsitesdeapostas.com fornece comparações independentes de operadores de apostas desportivas
               licenciados em Portugal. Podemos receber comissões dos parceiros, o que pode influenciar a ordem de
               apresentação.
             </p>
@@ -89,7 +89,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-200 pt-5 text-center text-xs text-gray-400 space-y-1">
-          <p>© {new Date().getFullYear()} bestptsitesdeapostas.com. Todos os direitos reservados.</p>
+          <p>© {new Date().getFullYear()} topptsitesdeapostas.com. Todos os direitos reservados.</p>
           <p>
             Jogue com moderação. Proibido a menores de 18 anos. Linha de Apoio:{" "}
             <Link href="tel:213950213" className="text-portugal-red hover:underline font-semibold">
@@ -101,3 +101,4 @@ export function Footer() {
     </footer>
   )
 }
+

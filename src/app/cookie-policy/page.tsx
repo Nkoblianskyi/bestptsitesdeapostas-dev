@@ -23,7 +23,7 @@ export default function CookiePolicyPage() {
             </h2>
             <p className="text-gray-700 leading-relaxed">
               Cookies são pequenos ficheiros de texto que um website armazena no seu navegador ou dispositivo quando
-              o visita. No <strong>bestptsitesdeapostas.com</strong>, utilizamos esta tecnologia para garantir o
+              o visita. No <strong>topptsitesdeapostas.com</strong>, utilizamos esta tecnologia para garantir o
               correto funcionamento do portal, personalizar a experiência de navegação e compreender como os
               visitantes interagem com os nossos conteúdos de análise de apostas desportivas em Portugal.
             </p>
@@ -61,7 +61,7 @@ export default function CookiePolicyPage() {
                 {
                   color: "border-portugal-green",
                   label: "Cookies Essenciais",
-                  desc: "Indispensáveis para o funcionamento básico do bestptsitesdeapostas.com. Permitem navegação segura, gestão de sessões e acesso a funcionalidades protegidas. Não podem ser desativados.",
+                  desc: "Indispensáveis para o funcionamento básico do topptsitesdeapostas.com. Permitem navegação segura, gestão de sessões e acesso a funcionalidades protegidas. Não podem ser desativados.",
                 },
                 {
                   color: "border-portugal-red",
@@ -92,7 +92,7 @@ export default function CookiePolicyPage() {
               Cookies de Terceiros
             </h2>
             <p className="text-gray-700 leading-relaxed mb-3">
-              Em determinadas situações, o bestptsitesdeapostas.com utiliza cookies de parceiros externos:
+              Em determinadas situações, o topptsitesdeapostas.com utiliza cookies de parceiros externos:
             </p>
             <ul className="space-y-2 text-gray-700 text-sm">
               {[
@@ -137,10 +137,10 @@ export default function CookiePolicyPage() {
             <p className="text-gray-700 leading-relaxed">
               Para dúvidas sobre a nossa política de cookies, entre em contacto através de:{" "}
               <a
-                href="mailto:privacidade@bestptsitesdeapostas.com"
+                href="mailto:privacidade@topptsitesdeapostas.com"
                 className="text-portugal-green hover:underline font-medium"
               >
-                privacidade@bestptsitesdeapostas.com
+                privacidade@topptsitesdeapostas.com
               </a>
             </p>
           </section>
@@ -152,3 +152,4 @@ export default function CookiePolicyPage() {
     </div>
   )
 }
+
