@@ -30,8 +30,7 @@ export function Logo({ className = "", size = "md", variant = "dark" }: LogoProp
       <span className={`font-display tracking-wide leading-none ${baseSize} text-gray-900`}>
         apostas
       </span>
-      {/* accent dot */}
-      <span className={`font-display leading-none ml-0.5 ${dotColor} ${baseSize}`}>.</span>
+      
     </Link>
   )
 }
